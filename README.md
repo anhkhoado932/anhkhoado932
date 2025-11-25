@@ -23,10 +23,8 @@
 <a target="_blank" href="mailto:dakhoa0903@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-
-<br>
 </p>
-
+<!-- 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anhkhoado932&theme=gruvbox" alt="khoadodox"  /></p>
 
@@ -38,7 +36,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anhkhoado932&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
+<hr> -->
 
 
 
