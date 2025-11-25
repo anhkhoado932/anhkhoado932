@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Kai 👋
 
-![Portfolio](dokhoa.dev)
-[![GitHub followers](https://img.shields.io/github/followers/anhkhoado932.svg?style=social&label=Followers)](https://github.com/anhkhoado932?tab=followers)
+![](https://img.shields.io/badge/portfolio-khoa?style=for-the-badge&link=dokhoa.dev)
+[![GitHub followers](https://img.shields.io/github/followers/anhkhoado932.svg?style=for-the-badge&label=Followers)](https://github.com/anhkhoado932?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=30&lines=Hey!+It's+Kai!;I'm+a+Software+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+Vietnamese)](https://git.io/typing-svg)
 
