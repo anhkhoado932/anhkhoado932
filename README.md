@@ -3,10 +3,10 @@
 
 ![](https://img.shields.io/badge/portfolio-khoa?style=for-the-badge&link=dokhoa.dev)
 [![GitHub followers](https://img.shields.io/github/followers/anhkhoado932.svg?style=for-the-badge&label=Followers)](https://github.com/anhkhoado932?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=anhkhoado932&label=Views&color=brightgreen&style=for-the-badge" alt="views on github" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=30&lines=Hey!+It's+Kai!;I'm+a+Software+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+Vietnamese)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=anhkhoado932&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
